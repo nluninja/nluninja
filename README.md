@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 I am Andrea. I do text processing research mainly working on NLP,  NLU and Knowledge Graphs
 
-⚡ I share experiments and prototypes on machine learning, deeplearning and other computer science related stuff time-to-time.
+* ⚡ I share experiments and prototypes on machine learning, deeplearning and other computer science related stuff time-to-time.
 
-🔭 I am currently at expert.ai but all the materials here are from my own ( altought I have a natural bias to use the great things we do at work 😄)
+* 🔭 I am currently at expert.ai but all the materials here are from my own ( altought I have a natural bias to use the great things we do at work 😄)
 
-📫 Best way to reach to me is on LinkedIn.
+* 📫 Best way to reach to me is on LinkedIn.
