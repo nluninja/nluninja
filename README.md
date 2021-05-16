@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Andrea. I do text processing research, mainly working NLP,  NL and Knowledge Graphs
+I am Andrea. I do text processing research mainly working on NLP,  NLU and Knowledge Graphs
 
 ⚡ I share experiments and prototypes on machine learning, deeplearning and other computer science related stuff time-to-time.
 
